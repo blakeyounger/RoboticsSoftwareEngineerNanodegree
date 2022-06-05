@@ -1,0 +1,8 @@
+prefix=/mnt/hgfs/Projects/Project2/catkin_ws/install
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/mnt/hgfs/Projects/Project2/catkin_ws/install/include
+Libs: -L/mnt/hgfs/Projects/Project2/catkin_ws/install/lib 
+Requires: 

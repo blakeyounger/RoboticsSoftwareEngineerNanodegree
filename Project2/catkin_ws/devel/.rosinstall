@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/hgfs/Projects/Project2/catkin_ws/devel/setup.sh

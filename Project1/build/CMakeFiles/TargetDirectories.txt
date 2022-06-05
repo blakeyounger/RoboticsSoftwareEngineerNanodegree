@@ -1,0 +1,3 @@
+/mnt/hgfs/Project 1/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Project 1/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/Project 1/build/CMakeFiles/hello.dir
