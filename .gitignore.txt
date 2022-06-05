@@ -1,6 +1,6 @@
 Project1/build/
 Project1/submissions/
-Project2/catkin/build
-Project2/catkin/devel
+Project2/catkin/build/
+Project2/catkin/devel/
 .gitignore
 
