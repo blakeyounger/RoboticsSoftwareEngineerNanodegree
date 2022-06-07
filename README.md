@@ -1,5 +1,5 @@
 # Udacity's Robotics Software Engineer Nanodegree
-#### Course website: [Robotics Software Engineer](www.udacity.com/course/robotics-software-engineer--nd209)
+#### Course website: [Robotics Software Engineer](https://www.udacity.com/course/robotics-software-engineer--nd209)
 #### Link to the syllabus: https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd209_Robo_syllabus_v2.pdf
 There are a total of 5 projects, starting off easy with ROS essentials and building a world in Gazebo, and 
 ending with making a mobile robot perform a pickup-dropoff in an unknown map using the ROS navigation stack.
